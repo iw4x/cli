@@ -6,6 +6,9 @@
 int
 main (int argc, char* argv[])
 {
+  // Some changes.
+  //
+
   using namespace std;
   using namespace hello;
 
